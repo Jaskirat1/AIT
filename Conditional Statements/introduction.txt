@@ -1,0 +1,19 @@
+key points
+
+Conditional statements
+1. if
+2. if else 
+3. if elif else 
+
+
+1. if statement
+====================
+if(Conditional expression):
+    //statements to execute
+
+#Note :- important to use correct indentation
+
+example:=
+a = 10
+if a%2 ==0:
+    print("Even number")

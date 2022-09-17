@@ -1,0 +1,26 @@
+Data types:
+
+# Numeric:-
+1. Integer
+2. Float
+3. Complex Numbers
+
+# Sequence types
+1. String
+2. List
+3. Tuple
+
+#Dictionary
+#Set
+
+
+python divides data types into two categories :-
+---------------------------------------------
+1. Mutable Data types:= List, Dictionary, byte array are mutable data types
+
+2. Immutable Data types:= int, float, complex, string, tuple, set
+ 
+
+Mutable object can change its state or contents and 
+Immutable objects cannot
+

@@ -1,0 +1,9 @@
+User input and type casting 
+
+
+key points:=
+
+input()
+int()
+float()
+eval() -----> 

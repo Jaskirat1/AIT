@@ -7,8 +7,9 @@ while i <=10:
     i+=1
     print(mul)
 """
-i = 1
-for i in range(1, 11):
-     mul = num*i
+i = 0
+for i in range(0,10):
+
      i +=1
-     print(mul)
+     mul = num*i
+     print( num,"*",i,"=",mul)
